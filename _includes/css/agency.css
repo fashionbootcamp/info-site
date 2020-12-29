@@ -355,6 +355,12 @@ section h3.section-subheading {
     width: 90%;
 }
 
+.service-heading-one {
+    color: #ff4b22;
+    font-weight: 700;
+    font-size: 60px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
