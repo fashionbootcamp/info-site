@@ -361,6 +361,11 @@ section h3.section-subheading {
     font-size: 60px;
 }
 
+.service-heading-two {
+    font-weight: 700;
+    font-size: 40px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
